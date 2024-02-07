@@ -8,7 +8,8 @@ public class App
         MenuItem[] menuItems = new MenuItem[]{
                 new Burger("Classic Burger", 8.99, "Beef patty, lettuce, tomato, cheese"),
                 new Pizza("Margherita Pizza", 12.99, "Tomato sauce, mozzarella, basil"),
-                new Salad("Caesar Salad", 6.99, "Romaine Lettuce, croutons, Caesar dressing")
+                new Salad("Caesar Salad", 6.99, "Romaine Lettuce, croutons, Caesar dressing"),
+                new Dessert("Apple Pie", 9.99, "Apple in a pie")
         };
 
         //Display details of each menu Item
